@@ -190,6 +190,8 @@ Source 3 (Metadata: {'source': 'document_1', 'type': 'web'}):
 Transformers have the advantage of having no recurrent units...
 ```
 
+## demo link: https://cap2-demo-qylbgjrejwp6sfrbzvsktd.streamlit.app/
+
 ## Notes
 
 - **Metadata Fix**: The code ensures proper metadata assignment (`{'source': 'document_2', 'type': 'pdf'}`) for PDF chunks, addressing earlier issues where some chunks had empty metadata.
